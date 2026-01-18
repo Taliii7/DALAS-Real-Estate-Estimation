@@ -1,0 +1,10 @@
+.DS_Store
+/output
+/input
+/dataset/input/
+/dataset/output/
+dataset/images_process/sam_vit_h_4b8939.pth
+dataset/images_process/yolov8n.pt
+model/__pycache__
+model/checkpoints
+/dataset/images_process/__pycache__/
